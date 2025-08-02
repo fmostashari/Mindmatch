@@ -16,9 +16,11 @@
 
 ## 📸 تصاویر از محیط بازی
 
-| صفحه‌ی اصلی | آیکون‌های باز شده | پیام برد یا باخت |
-|-------------|------------------|------------------|
-| ![screenshot1](screenshots/mindmatch1.png) | ![screenshot2](screenshots/mindmatch2.png) |
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="img/mindmatch1.png" width="150"/>
+  <img src="img/mindmatch2.png" width="150"/>
+
+</div>
 
 
 
