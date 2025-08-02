@@ -17,8 +17,8 @@
 ## 📸 تصاویر از محیط بازی
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="img/mindmatch1.png" width="150"/>
-  <img src="img/mindmatch2.png" width="150"/>
+  <img src="image/mindmatch1.png" width="150"/>
+  <img src="image/mindmatch2.png" width="150"/>
 
 </div>
 
